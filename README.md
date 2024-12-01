@@ -1,37 +1,35 @@
 # Calculate Simple Interest
 
-Calculate Simple Interest is a Bash file project that calculates simple interest for a micro-finance company.
-
-## Installation
-
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
-
-```bash
-pip install foobar
-```
+A calculator that calculates simple interest given principal, annual rate of interest, and time period in years.
 
 ## Usage
 
-```python
-import foobar
-
-# returns 'words'
-foobar.pluralize('word')
-
-# returns 'geese'
-foobar.pluralize('goose')
-
-# returns 'phenomenon'
-foobar.singularize('phenomena')
-```
+Input:  
+&nbsp;&nbsp;&nbsp;&nbsp;p, principal amount  
+&nbsp;&nbsp;&nbsp;&nbsp;t, time period in years  
+&nbsp;&nbsp;&nbsp;&nbsp;r, annual rate of interest  
+Output:  
+&nbsp;&nbsp;&nbsp;&nbsp;simple interest = p*t*r
 
 ## Contributing
 
-Pull requests are welcome. For major changes, please open an issue first
-to discuss what you would like to change.
+Please consider the factors below while contributing.
 
-Please make sure to update tests as appropriate.
+**Code Style**:
+Maintain a consistent code style for readability.
+
+**Documentation**:
+Ensure well-documented code for effective collaboration.
+
+**Testing**:
+Thoroughly test your changes before submitting a pull request.
+
+**Issue Tracker**:
+Check the Issue Tracker for tasks.
+
+**Code Review**:
+All contributions undergo a code review process.
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+Contributions are licensed.
